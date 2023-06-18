@@ -1,0 +1,13 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="NamespaceClashes" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="NamespaceUndefined" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="PackageFileMissing" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PodUnresolvableLink" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="SubUnresolvable" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="UnusedLexicalVariable" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="UnusedTypeGlob" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="VariableShadows" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  </profile>
+</component>

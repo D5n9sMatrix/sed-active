@@ -19,7 +19,7 @@ if very accept concluded the build.<br>
    **gates**<br> 
    --policy attributes server logical layout<br>
    **manager**<br>
-   -- verify step out continue ...
+   -- verify step out continue ...<br>
    **pill**<br>
    -- sed -n `s/foo/bar` input.txt > output.txt
 3) rules --- describer create a count a pass
